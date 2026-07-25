@@ -1,0 +1,7 @@
+{
+  "normalization": ["reduce redundancy", "duplicate data", "normal forms"],
+  "dbms": ["database", "database management system"],
+  "sql": ["structured query language"],
+  "os": ["operating system"],
+  "oop": ["object oriented programming", "classes and objects"]
+}

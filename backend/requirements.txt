@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+PyMuPDF
+rank_bm25
+nltk
+rapidfuzz
+pytesseract
+pdf2image
+pytest
+python-dotenv
+reportlab
+httpx
+pyinstaller
