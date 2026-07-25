@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { Search, Database, Bot, ArrowRight, Sparkles, MessageSquare } from 'lucide-react';
+import { Database, Bot, ArrowRight, Sparkles, MessageSquare } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 
 const LandingPage: React.FC = () => {

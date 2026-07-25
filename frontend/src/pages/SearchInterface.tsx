@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Search, ArrowLeft, Database, FileText, Copy, AlertCircle, Bookmark, History, Download, X, Settings, Bot, Send, Sparkles, MessageSquare } from 'lucide-react';
+import { Search, ArrowLeft, FileText, Copy, AlertCircle, Bookmark, History, Download, X, Settings, Bot, Send, Sparkles, MessageSquare } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 import { Document, Page } from 'react-pdf';
